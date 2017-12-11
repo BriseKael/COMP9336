@@ -26,12 +26,13 @@ Results:
 -----
 ![](https://github.com/BriseKael/COMP9336/blob/master/img/AP%20Density.png)
 ![](https://github.com/BriseKael/COMP9336/blob/master/img/Data%20Rate.png)
-![](https://github.com/BriseKael/COMP9336/blob/master/img/Protocols%20Use.png)
 ![](https://github.com/BriseKael/COMP9336/blob/master/img/Signal%20Strength.png)
+![](https://github.com/BriseKael/COMP9336/blob/master/img/Protocols%20Use.png)
+
 
 Authors
 -----
-![](https://github.com/BriseKael/COMP9336/blob/master/img/QuanYinXiChen.jpg)
+![](https://github.com/BriseKael/COMP9336/blob/master/img/QuanYinXiChen.jpg)  
 Quan Yin  
 Xi Chen
 
